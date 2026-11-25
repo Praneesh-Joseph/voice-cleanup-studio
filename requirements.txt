@@ -1,0 +1,8 @@
+numpy
+scipy
+soundfile
+matplotlib
+streamlit
+faster-whisper
+pyloudnorm
+librosa

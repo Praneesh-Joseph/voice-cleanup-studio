@@ -1,0 +1,1 @@
+SR = 16000  # every module uses this sample rate
